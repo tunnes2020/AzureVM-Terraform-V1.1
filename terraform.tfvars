@@ -1,0 +1,11 @@
+azure_subscription_id = "b2342340-bbb234-234234asdf-asdfsdf"
+azure_client_id       = "b2342340-bbb234-234234asdf-asdfsdf"
+azure_client_secret   = "b2342340-bbb234-234234asdf-asdfsdf"
+azure_tenant_id       = "b2342340-bbb234-234234asdf-asdfsdf"
+
+azure_linux_user_password = "Password_for_user"
+azure_linux_user_name     = "ubnt"
+azure_ssh_user_path       = "/home/ubnt/.ssh/authorized_keys"
+azure_ssh_pub_key         = "ssh-rsa AAAAB3NskippedLY/u3 email@mail.com"
+azure_computer_name       = "Ubuntu-hostname"
+azure_ssh_private_key     = "id_rsa"
